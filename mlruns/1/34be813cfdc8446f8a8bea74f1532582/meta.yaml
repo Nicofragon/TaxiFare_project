@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nfrate/code/Nicofragon/TaxiFareModel/mlruns/1/34be813cfdc8446f8a8bea74f1532582/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 34be813cfdc8446f8a8bea74f1532582
+run_uuid: 34be813cfdc8446f8a8bea74f1532582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643903301434
+status: 1
+tags: []
+user_id: unknown
